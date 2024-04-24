@@ -1,4 +1,4 @@
-package tinylcugo
+package test
 
 import "fmt"
 
