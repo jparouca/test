@@ -1,3 +1,3 @@
-module github.com/jparouca/tiny-lcugo
+module github.com/jparouca/test
 
 go 1.22.2
